@@ -29,7 +29,7 @@ The repository contains a Python script that uses the `transformers` library to 
    Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/lax-local-ai-execution.git
+   git clone https://github.com/Jeff9497/LAX.git
    ```
 
 2. **Navigate to the Project Directory**
