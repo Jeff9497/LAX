@@ -58,7 +58,7 @@ The repository contains a Python script that uses the `transformers` library to 
 1. **Run the Script**
 
    ```bash
-   python GPT2Model.py
+   python LAX28.py
    ```
 
 2. **Interact with the Model**
